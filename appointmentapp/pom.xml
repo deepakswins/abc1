@@ -33,7 +33,7 @@
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven</artifactId>
+				<artifactId>spring-boot-maven_Deepak Sharma</artifactId>
 			</plugin>
 		</plugins>
 	</build>
